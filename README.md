@@ -22,6 +22,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=saurabhku976-pixel&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Doxcy-sanskar&icon=0&color=0)]((https://saurabhpo.netlify.app/))
+[![](https://komarev.com/ghpvc/?username=saurabhku976-pixel&icon=0&color=0)]((https://saurabhpo.netlify.app/))
 
 <!-- Proudly created with GPRM [(https://saurabhpo.netlify.app/)] -->
